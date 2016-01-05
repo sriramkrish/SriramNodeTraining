@@ -14,3 +14,4 @@ Completed:
 * [x] Required: Client requests and respones are printed to stdout
 * [x] Required: The `--logfile` argument outputs all logs to the file specified instead of stdout
 
+![alt tag](https://raw.githubusercontent.com/sriramkrish/SriramNodeTraining/master/ProxyServerExercise.gif)
