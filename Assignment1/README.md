@@ -17,3 +17,5 @@ Completed:
 
 
 Walkthrough Gif:
+![alt tag](https://github.com/sriramkrish/SriramNodeTraining/blob/master/Assignment1/Assignment1.gif)
+
