@@ -35,4 +35,4 @@ Time spent: `6 hours`
 ### Walkthrough
 
 `<Add your Walkthrough Gif here (by updating the image URL)>`
-![Video Walkthrough](...)
+![alt tag](https://github.com/sriramkrish/SriramNodeTraining/blob/master/Assignment2/Assignment2-dropbox.gif)
